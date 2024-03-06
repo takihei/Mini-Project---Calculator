@@ -1,1 +1,3 @@
 # Mini-Project---Calculator
+Information: This is a mini python project of me about a simple but extra featured 4 operation calculator.
+How it works: The calculator asks you 5 questions according to your choices of level and operation and saves the results.Level is order and Operation is basically one of the four basic math operations.If you make a mistake when answering a question, program will print EEE then the program will give you two more chances.If you fail to answer correctly two times more,then program will print the answer and then ask another question. When user answered all 5 questions, program will show results.
